@@ -12,4 +12,9 @@ System.out.println("employee Name : Devakar");
 	private void emp3() {
 		System.out.println("Employee Name : gershom");
 			}
+	private void emp4() {
+		System.out.println("Employee Name : Priya ");
+			}	
+
+
 }
